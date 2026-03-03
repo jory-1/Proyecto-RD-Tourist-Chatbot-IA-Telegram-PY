@@ -60,7 +60,7 @@ GROQ_API_KEY=tu_groq_api_key_aqui
 ## 🚀 Ejecución del Bot
 Una vez configurado el .env y con el ambiente virtual activo, ejecuta:
 
-``` Bash
+```Bash
 python bot.py
 ```
 ## 🛠️ Funcionalidades Incluidas

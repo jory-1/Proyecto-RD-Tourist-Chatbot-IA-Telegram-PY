@@ -2,7 +2,7 @@
 Asistente virtual inteligente para Telegram diseñado para ayudar a turistas a explorar la República Dominicana. Utiliza Llama 3 (Groq) para recomendaciones personalizadas y geolocalización en tiempo real.
 
 📦 Archivos del Proyecto
-bot.py – Aplicación principal del bot (Python asíncrono).
+rdbot.py – Aplicación principal del bot (Python asíncrono).
 
 .env – Variables de entorno para Tokens y API Keys (No subir a Git).
 
@@ -58,7 +58,7 @@ GROQ_API_KEY=tu_groq_api_key_aqui
 Una vez configurado el .env y con el ambiente virtual activo, ejecuta:
 
 Bash
-python bot.py
+py rdbot.py
 🛠️ Funcionalidades Incluidas
 Menú Interactivo: Botones de selección rápida para Playas, Montaña y Comida.
 

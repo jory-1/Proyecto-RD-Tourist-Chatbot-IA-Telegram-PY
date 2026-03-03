@@ -64,12 +64,8 @@ Una vez configurado el .env y con el ambiente virtual activo, ejecuta:
 python bot.py
 ```
 ## 🛠️ Funcionalidades Incluidas
-- **Menú Interactivo:** Botones de selección rápida para Playas, Montaña y Comida.
-```Bash
-python rdbot.py
-```
 - **Menú:** Interactivo Botones de selección rápida para Playas, Montaña y Comida.
 - **Geolocalización:** El bot recibe tu ubicación GPS y te recomienda lugares cercanos en RD.
 
-- **InteractivoIA Generativa:** Interactivo Respuestas dinámicas con jerga dominicana y enlaces directos a Google Maps.
+- **IA Generativa:** Interactivo Respuestas dinámicas con jerga dominicana y enlaces directos a Google Maps.
 
